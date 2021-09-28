@@ -161,6 +161,15 @@ Now, in your browser, navigate to your homepage (http://127.0.0.1:4000/). You sh
 
 ## 8. Modify Your Post 
 
+ # Heading 1 #
+ =============
+
+### Third level
+
+- Hello
+- My name is
+- John
+
 1. Try making a header: 
 ```m
 ### Third level header (number of # controls level)
@@ -201,7 +210,7 @@ x = np.linspace(0, 2*np.pi, 1001)
 y = np.sin(x)
 plt.plot(x, y)
 ```
-![image-example.png]({{ site.baseurl }}/images/image-example.png)
+![]({{site.baseurl}}/images/image-example.png)
 
 To create this example, I first ran the code in a Jupyter Notebook, and added the line `plt.savefig("image-example.png")` to save the result. I then moved the file `image-example.png` to the `images/` directory of my blog. Finally, I added the line 
 ```

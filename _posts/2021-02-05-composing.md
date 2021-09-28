@@ -43,10 +43,9 @@ Both of these support arbitrary nesting:
 ## Math
 
 If you are familiar with the $$\LaTeX$$ typesetting system, you can use many standard commands by enclosing them in double \$ symbols. You can make both inline math like $$f(x) = e^x$$ and display math like 
+Hi
 
 $$\sum_{i = 1}^{\infty} \frac{1}{i^2} = \frac{\pi^2}{6}.$$
-
-
 
 ## Code
 
